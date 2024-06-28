@@ -6,19 +6,19 @@ Submission template for the CG lab project at the Johannes Kepler University Lin
 
 This `README.md` needs to be pushed to Github for each of the four assignments. For every submission change/extend the corresponding sections by replacing the *TODO* markers. Make sure that you push everything to your Github repository before the respective deadlines. For more details, see the Moodle page.
 
-### Student information due on 25.03.2024
+### Student information due on 22.07.2024
 
 |                  | Student ID | First Name | Last Name | E-Mail |
 | ---------------- | ---------- | ---------- | --------- | ------ |
 | **Student name** | TODO       | TODO       | TODO      | TODO   |
 
-### Concept Submission due on 25.03.2024
+### Concept Submission due on 22.07.2024
 
 TODO
 
 (Explain the basic story of your movie, i.e., planned scenes, what happens, which objects are used, etc.)
 
-## Assignment 1 - Scene Graphs (Submission due on 15.04.2024)
+## Assignment 1 - Scene Graphs (Submission due on 19.08.2024)
 
 Prepare a submission that contains:
 
@@ -31,7 +31,7 @@ The repository needs to contain:
 * code/ documented code + resources + libs
 * video/screen recording 
 
-## Assignment 2 - Shading & Materials (Submission due on 02.05.2024)
+## Assignment 2 - Shading & Materials (Submission due on 19.08.2024)
 
 Prepare a submission that contains:
 
@@ -46,7 +46,7 @@ The repository needs to contain:
 * code/ documented code + resources + libs
 * video/screen recording 
 
-## Assignment 3 - Animation (Submission due on 22.05.2024)
+## Assignment 3 - Animation (Submission due on 16.09.2024)
 
 Prepare a submission that contains:
 
@@ -59,7 +59,7 @@ The repository needs to contain:
 * code/ documented code + resources + libs
 * video/screen recording 
 
-## Assignment 4 - Texturing (Submission due on 10.06.2024)
+## Assignment 4 - Texturing (Submission due on 16.09.2024)
 
 Prepare a submission that contains:
 
